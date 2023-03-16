@@ -10,7 +10,7 @@ IHi, I’m Kyrylo Vasylkov, developer based in Chicago, I have a passion for bui
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KyryloVasylkov&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KyryloVasylkov&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KyryloVasylkov&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -18,4 +18,4 @@ IHi, I’m Kyrylo Vasylkov, developer based in Chicago, I have a passion for bui
 ---
 [![](https://visitcount.itsvg.in/api?id=KyryloVasylkov&icon=9&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
