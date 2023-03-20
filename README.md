@@ -2,13 +2,11 @@
 Hi, I’m Kyrylo Vasylkov, developer based in Chicago, I have a passion for building highly-polished products for customers, and enjoy creating great user experience. I am currently working as a freelance Full Stack Developer.  
 
 **My main stack right now**
-    JavaScript
-    Node.js
-    Writing chatbots and parsers
-    Blockchain development (TON Blockchain)
-    Databases (MongoDB)
-    GIT and unix-terminal
-    Task management (Trello, Slack)
+ * JavaScript
+ * Node.js
+ * MongoDB
+ * Vue.js
+    
 
 In addition to a good knowledge of JavaScript Node.js etc, I also have rich experience in: writing chatbots, parsers. I can work with several blockchains and much more. There are several gambling projects I have created from scratch and published on the [TON Blockchain](https://ton.org). 
 
