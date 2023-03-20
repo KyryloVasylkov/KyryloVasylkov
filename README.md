@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi, I’m Kyrylo Vasylkov, developer based in Chicago, I have a passion for building highly-polished products for customers, and enjoy creating great user experience. I am currently working as a freelance Full Stack Developer.  In addition to a good knowledge of JavaScript Node.js etc, I also have rich experience in: writing chatbots, parsers. I can work with several blockchains and much more. There are several gambling projects I have created from scratch and published on the TON blockchain. I can work with databases, GIT and unix-terminal and with various technical software, as well as Trello, Slack and other task managers. I always follow the principles of Clean Code and S.O.L.I.D. I watch a lot of content about IT and I am constantly improving in coding and other skills. I know Javascript well, I use Node.js + Express on the backend. Main stack now: Vue, CSS (SASS), HTML (BEM), Node.js, MongoDB. I am also familiar with Python. I am interested in both Frontend and Backend directions, and in addition to studying new technologies, I want to get more experience in working with Vue.
+Hi, I’m Kyrylo Vasylkov, developer based in Chicago, I have a passion for building highly-polished products for customers, and enjoy creating great user experience. I am currently working as a freelance Full Stack Developer.  
+
+**My main stack right now**
+    JavaScript
+    Node.js
+    Writing chatbots and parsers
+    Blockchain development (TON Blockchain)
+    Databases (MongoDB)
+    GIT and unix-terminal
+    Task management (Trello, Slack)
+
+In addition to a good knowledge of JavaScript Node.js etc, I also have rich experience in: writing chatbots, parsers. I can work with several blockchains and much more. There are several gambling projects I have created from scratch and published on the [TON Blockchain](https://ton.org). 
+
+I can work with databases, GIT and unix-terminal and with various technical software, as well as Trello, Slack and other task managers. I always follow the principles of Clean Code and S.O.L.I.D. I watch a lot of content about IT and I am constantly improving in coding and other skills. Main stack now: Vue, CSS (SASS), HTML (BEM), Node.js, MongoDB. I am also familiar with Python. I am interested in both Frontend and Backend directions, and in addition to studying new technologies, I want to get more experience in working with [Vue](https://vuejs.org/).
 
 
 ## 🌐 Socials:
