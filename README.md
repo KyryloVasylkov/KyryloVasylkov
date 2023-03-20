@@ -6,11 +6,12 @@ Hi, I’m Kyrylo Vasylkov, developer based in Chicago, I have a passion for buil
  * Node.js
  * MongoDB
  * Vue.js
-    
+ 
+In addition to a good knowledge of **JavaScript** **Node.js** etc, I also have rich experience in: writing **chatbots**, **parsers**. I can work with several **Blockchains** and much more. There are several gambling projects I have created from scratch and published on the [TON Blockchain](https://ton.org). 
 
-In addition to a good knowledge of JavaScript Node.js etc, I also have rich experience in: writing chatbots, parsers. I can work with several blockchains and much more. There are several gambling projects I have created from scratch and published on the [TON Blockchain](https://ton.org). 
+I always follow the principles of **Clean Code** and **S.O.L.I.D.** and continuously improve my coding and other skills, also I am familiar with **Python** and different DS tools.
 
-I can work with databases, GIT and unix-terminal and with various technical software, as well as Trello, Slack and other task managers. I always follow the principles of Clean Code and S.O.L.I.D. I watch a lot of content about IT and I am constantly improving in coding and other skills. Main stack now: Vue, CSS (SASS), HTML (BEM), Node.js, MongoDB. I am also familiar with Python. I am interested in both Frontend and Backend directions, and in addition to studying new technologies, I want to get more experience in working with [Vue](https://vuejs.org/).
+I watch a lot of content about IT and I am constantly improving in coding and other skills. I am interested in both Frontend and Backend directions, and in addition to studying new technologies, I want to get more experience in working with [Vue](https://vuejs.org/).
 
 
 ## 🌐 Socials:
